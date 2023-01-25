@@ -1,9 +1,6 @@
-import profile from "../assets/react.svg";
-
 export default function Info() {
   return (
     <div className="info">
-      {/* <img src={profile} className="info--profile" /> */}
        <div className="info--profile"></div>
       <h1 className="info--name">Ned Park</h1>
       <h2 className="info--title">Full-stack Developer</h2>
